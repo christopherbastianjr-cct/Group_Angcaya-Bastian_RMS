@@ -2,7 +2,8 @@
 Test Account
 
 Username: Andrew
-Password 1234
+
+Password: 1234
 
 Running the RMS tutorial
 
